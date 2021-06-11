@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/color-change-demo/static/css/main.3ec5060f.chunk.css",
+    "main.js": "/color-change-demo/static/js/main.297a2bf6.chunk.js",
+    "main.js.map": "/color-change-demo/static/js/main.297a2bf6.chunk.js.map",
+    "runtime-main.js": "/color-change-demo/static/js/runtime-main.8e0decea.js",
+    "runtime-main.js.map": "/color-change-demo/static/js/runtime-main.8e0decea.js.map",
+    "static/js/2.330a425f.chunk.js": "/color-change-demo/static/js/2.330a425f.chunk.js",
+    "static/js/2.330a425f.chunk.js.map": "/color-change-demo/static/js/2.330a425f.chunk.js.map",
+    "static/js/3.ceca56c5.chunk.js": "/color-change-demo/static/js/3.ceca56c5.chunk.js",
+    "static/js/3.ceca56c5.chunk.js.map": "/color-change-demo/static/js/3.ceca56c5.chunk.js.map",
+    "index.html": "/color-change-demo/index.html",
+    "static/css/main.3ec5060f.chunk.css.map": "/color-change-demo/static/css/main.3ec5060f.chunk.css.map",
+    "static/js/2.330a425f.chunk.js.LICENSE.txt": "/color-change-demo/static/js/2.330a425f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e0decea.js",
+    "static/js/2.330a425f.chunk.js",
+    "static/css/main.3ec5060f.chunk.css",
+    "static/js/main.297a2bf6.chunk.js"
+  ]
+}
